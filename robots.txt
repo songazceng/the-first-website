@@ -7,4 +7,4 @@ Disallow: /*/api
 Disallow: /*/api/
 Disallow: /*/api*
 
-sitemap: https://sitemaps.com/sitemap.xml
+sitemap: https://www.achitecture-cover-letter.cc/sitemap.xml
