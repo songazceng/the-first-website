@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: *
+Disallow: /api
+Disallow: /api/
+Disallow: /api*
+Disallow: /*/api
+Disallow: /*/api/
+Disallow: /*/api*
+
+sitemap: https://sitemaps.com/sitemap.xml
